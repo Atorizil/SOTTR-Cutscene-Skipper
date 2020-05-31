@@ -1,5 +1,5 @@
 # SOTTR Cutscene Skipper
- **Only works for Version 234.1** [Downngrade Guide](https://www.speedrun.com/trshadow/guide/4yi80)
+ **Only works for Version 234.1** [Downgrade Guide](https://www.speedrun.com/trshadow/guide/4yi80)
  
  [Download from Releases](https://github.com/Atorizil/SOTTR-Cutscene-Skipper/releases)
  
