@@ -1,0 +1,2 @@
+# SOTTR Cutscene Skipper
+ 
