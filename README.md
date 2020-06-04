@@ -1,7 +1,7 @@
 # SOTTR Cutscene Skipper
 This is a external hack for Shadow of the Tomb Raider which allows many of the unskippable cutscenes to be skipped.
 
- **Only works for Version 234.1** ([Downgrade Guide](https://www.speedrun.com/trshadow/guide/4yi80))
+ **Only works for Version 234.1 (Windows)** ([Downgrade Guide](https://www.speedrun.com/trshadow/guide/4yi80))
  
  **[Download from Releases](https://github.com/Atorizil/SOTTR-Cutscene-Skipper/releases)**
  
