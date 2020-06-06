@@ -14,3 +14,5 @@ Once you have downloaded the executuble from releases, just open it and leave it
 
 ## Other Notes
 If there are any issues at a specific cutscene, create an [Issue](https://github.com/Atorizil/SOTTR-Cutscene-Skipper/issues).
+
+[Link to the Blacklist JSON Gist](https://gist.github.com/Atorizil/734a7649471f0fa0a2a9f92a167e294b)
